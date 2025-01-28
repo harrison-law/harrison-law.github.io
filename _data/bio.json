@@ -22,19 +22,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-08-26",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,10 +42,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Uniqlo",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-02-13",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
@@ -54,11 +54,23 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Hawaii Innovation Lab",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2024-06-",
+      "endDate": "2024-07-",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "Robotic Space Exploration Lab",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2023-06-",
+      "endDate": "2023-07-",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
