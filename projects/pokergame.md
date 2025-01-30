@@ -10,12 +10,6 @@ labels:
 summary: "I developed a text-based, playable Texas Hold'em poker program with functioning game logic."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
-
 Texas Hold'em poker is the most popular form of poker around the world, in which each player is dealt two cards, and along with a community five cards, makes the best possible hand using any 5 card combination. I often enjoy playing this variation of poker with my family, so I thought that recreating it would be a fun endeavor to embark on. 
 
 Using python, I created various classes to represent the different aspects of the game and implemented the game logic to deduce who won a given hand. This, in combination with a text-based interface representing the given options per round and cards, allows users to actually play Texas Hold'em poker in this program.
