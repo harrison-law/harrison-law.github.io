@@ -10,6 +10,8 @@ labels:
   - StackOverflow
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="https://as1.ftcdn.net/jpg/03/16/75/44/1000_F_316754402_pZPt5WgtcCft285YG2p5vqkkPE2FlNqQ.jpg">
+
 ## Questions, questions, questions
 
 In life, we all ask questions. Placed in this world with not a clue of what to do, we must ask questions in order to live and prosper as people. This same idea applies to software engineering, as no matter how smart we might think we are, we still need to ask questions sometimes. With this, we learn that the way we ask questions often times dictates the response we get, which can especially be true on various online forums such as StackOverflow. The homepage of programming questions galore, StackOverflow has become a site home to just about any programming question an aspiring software engineer might have, making it also home to various smart and less smart questions. But that begs the question: what makes a question... smart?
