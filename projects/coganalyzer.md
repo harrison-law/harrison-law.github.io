@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maps-for-free_Sierra_Nevada.png/220px-Maps-for-free_Sierra_Nevada.png
+image: img/terrain_1_lg.gif
 title: "Cloud GeoTIFF Analyzer"
 date: 2023
 published: true
