@@ -18,6 +18,7 @@ This program went through many iterations, which taught me how to evolve program
 
 Here's some code to demonstrate what the program did:
 
+```cpp
 # COG file used
 cog_file = 'f.tif'
 
@@ -46,3 +47,4 @@ with rasterio.open(cog_file) as dataset:
             tile_image.show()
             show_hist(tile_data, bins=50, histtype='stepfilled', lw=0.0, stacked=False, alpha=0.3)
             print(tile_data)
+```
