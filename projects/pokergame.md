@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/image-20150325-14532-fv0zpy.jpg
 title: "Poker Game"
 date: 2024
 published: true
