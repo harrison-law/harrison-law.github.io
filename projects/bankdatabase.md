@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://www.bellairetx.gov/ImageRepository/Document?documentId=23917
+image: img/Document.png
 title: "Bank Database"
 date: 2024
 published: true
