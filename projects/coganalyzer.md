@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maps-for-free_Sierra_Nevada.png/220px-Maps-for-free_Sierra_Nevada.png
 title: "Cloud GeoTIFF Analyzer"
 date: 2023
 published: true
