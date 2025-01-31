@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: https://www.bellairetx.gov/ImageRepository/Document?documentId=23917
 title: "Bank Database"
 date: 2024
 published: true
