@@ -12,7 +12,7 @@ labels:
   - CSS
 ---
 
-https://www.google.com/imgres?q=bootstrap%205%20logo&imgurl=https%3A%2F%2Fgetbootstrap.com%2Fdocs%2F5.0%2Fassets%2Fbrand%2Fbootstrap-logo.svg&imgrefurl=https%3A%2F%2Fgetbootstrap.com%2Fdocs%2F5.0%2Fabout%2Fbrand%2F&docid=fbCZoUYDCwioGM&tbnid=pzY-EnrTEd_zKM&vet=12ahUKEwiw9-j28eWLAxVXkO4BHb9bM3wQM3oECBkQAA..i&w=512&h=408&hcb=2&ved=2ahUKEwiw9-j28eWLAxVXkO4BHb9bM3wQM3oECBkQAA
+<img width="100px" class="rounded float-start pe-4" src="[../img/igniting/paintbrushes.jpg](https://www.google.com/imgres?q=bootstrap%205%20logo&imgurl=https%3A%2F%2Fgetbootstrap.com%2Fdocs%2F5.0%2Fassets%2Fbrand%2Fbootstrap-logo.svg&imgrefurl=https%3A%2F%2Fgetbootstrap.com%2Fdocs%2F5.0%2Fabout%2Fbrand%2F&docid=fbCZoUYDCwioGM&tbnid=pzY-EnrTEd_zKM&vet=12ahUKEwiw9-j28eWLAxVXkO4BHb9bM3wQM3oECBkQAA..i&w=512&h=408&hcb=2&ved=2ahUKEwiw9-j28eWLAxVXkO4BHb9bM3wQM3oECBkQAA)">
 
 Since before the beginning of this millenium, the internet as we know it has dictated our lives, deciding what we see when we go online. As with most other things, people sought to innovate upon the creation of the websites we see there, helping make web design easier and more accessible to those who don't want to learn how to do it from scratch. This innovation has led to the various UI frameworks seen in almost every website accessible on the internet, which begs the question: is it worth it to learn a framework or just create websites from scratch? In this essay, I will outline what I percieve to be the various benefits and downfalls of using UI frameworks in website creation.
 
