@@ -12,7 +12,7 @@ labels:
   - CSS
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/boostrap-icons.svg">
+<img width="100px" class="rounded float-start pe-4" src="[../img/boostrap-icons.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png)">
 
 Since before the beginning of this millenium, the internet as we know it has dictated our lives, deciding what we see when we go online. As with most other things, people sought to innovate upon the creation of the websites we see there, helping make web design easier and more accessible to those who don't want to learn how to do it from scratch. This innovation has led to the various UI frameworks seen in almost every website accessible on the internet, which begs the question: is it worth it to learn a framework or just create websites from scratch? In this essay, I will outline what I percieve to be the various benefits and downfalls of using UI frameworks in website creation.
 
