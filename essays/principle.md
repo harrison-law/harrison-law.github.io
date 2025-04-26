@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/s-l1200.jpg">
 
 Growing up, when Christmas came around, I would often ask for LEGOs, as I always enjoyed building them then using the extra pieces to build something different altogether. At first I would just mess around, building random things that weren't quite good loooking nor sturdy enough to withstand being placed in a bin when I finished playing with it. However, over time I grew to realize that there were building principles that although weren't mandated by any means, helped significantly improve the quality of the gizmos I built. From building lining up pieces in different ways to using more sturdy joints to connect pieces, these ideas helped my LEGO creations live a little longer in the mess that was my LEGO bin.
 
