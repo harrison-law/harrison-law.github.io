@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/landing-page.png
+image: img/images.png
 title: "Farrington AP Course Manager"
 date: 2025
 published: true
